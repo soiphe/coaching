@@ -1,0 +1,27 @@
+// Place all the styles related to the coaching controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.container-dialog {
+  width: 700px;
+  margin: 200px auto;
+  blockquote {
+    font-size: 2em;
+  }
+  p {
+    font-size: 0.8em;
+    color: grey;
+  }
+  a {
+    font-size: 2em
+    }
+  }
+
+form input[type=text] {
+  margin: 15px 0;
+}
+
+form {
+  width: 300px;
+  margin: 200px auto;
+  font-size: 2em;
+}
